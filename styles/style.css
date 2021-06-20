@@ -1,0 +1,14 @@
+@import "./reset.css";
+@import "./bootstrap.min.css";
+@import "./bootstrap-card.css";
+@import "./prism.css";
+@import "./ionicons.min.css";
+@import "./compodoc.css";
+@import "./tablesort.css";
+
+/* STYLES */
+.content-data .tab-pane {
+  background: #232323;
+  color: white;
+  padding: 1em;
+}
